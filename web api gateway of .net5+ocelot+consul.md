@@ -149,10 +149,10 @@ sc.exe create "Consul" binPath= "D:\Consul\consul.exe agent -server -ui -bootstr
 1. 下游服务全部可用时，可以轮流发送。
 2. 下游服务部分不可用时，仍然可以全部发送到可用的服务（不加consul时，ocelot就是服务不可用也发送过去了）
 
-### .net 5  ocelot consul web api gateway 入门总结，欢迎转载:[https://blog.csdn.net/wenlaishiwo/article/details/111830852](https://editor.csdn.net/md?articleId=111830852)
+### .net 5  ocelot consul web api gateway 入门总结，欢迎转载:[https://github.com/wonlayhwan/Blogs/edit/main/web%20api%20gateway%20of%20.net5+ocelot+consul.md](https://github.com/wonlayhwan/Blogs/edit/main/web%20api%20gateway%20of%20.net5+ocelot+consul.md)
 ### 参考资源
- (1) [https://www.cnblogs.com/zhaobingwang/p/12424708.html](https://www.cnblogs.com/zhaobingwang/p/12424708.html)
- (2) [https://blog.csdn.net/anqi4868/article/details/101800352](https://blog.csdn.net/anqi4868/article/details/101800352)
- (3) [https://www.cnblogs.com/shanyou/p/6286207.html](https://www.cnblogs.com/shanyou/p/6286207.html)
- (4) [https://learn.hashicorp.com/tutorials/consul/windows-agent](https://learn.hashicorp.com/tutorials/consul/windows-agent)
- (5) [https://ocelot.readthedocs.io/en/latest/index.html](https://ocelot.readthedocs.io/en/latest/index.html)
+ (1) [https://www.cnblogs.com/zhaobingwang/p/12424708.html](https://www.cnblogs.com/zhaobingwang/p/12424708.html)  
+ (2) [https://blog.csdn.net/anqi4868/article/details/101800352](https://blog.csdn.net/anqi4868/article/details/101800352)  
+ (3) [https://www.cnblogs.com/shanyou/p/6286207.html](https://www.cnblogs.com/shanyou/p/6286207.html)  
+ (4) [https://learn.hashicorp.com/tutorials/consul/windows-agent](https://learn.hashicorp.com/tutorials/consul/windows-agent)  
+ (5) [https://ocelot.readthedocs.io/en/latest/index.html](https://ocelot.readthedocs.io/en/latest/index.html)  
